@@ -13,5 +13,5 @@
 <b>Условие:</b>
 <a href="https://github.com/fx2ztqx/hh-school-of-programming_task-1/blob/master/task%231.py">task#1.py
 </a><br><br>
-</h4>/ * Все данные вводятся через командную строку функцией ввода input() * / <h4>
+<h5>/ * Все данные вводятся через командную строку функцией ввода input() * / <h5>
 </html>
