@@ -10,9 +10,8 @@
 Представьте это выражение в развёрнутом виде, например: 3x^4 - 15x^3 - 9x^2 + 45x</i>
 <br><br>
 </p>
-<a href="https://github.com/fx2ztqx/hh-school-of-programming_task-1/blob/master/task%231.py">task#1.py
-</a>
 <b>/ * Все данные вводятся через командную строку функцией ввода input() * / <b>
+<br>
 <a href="https://github.com/fx2ztqx/hh-school-of-programming_task-1/blob/master/task%231.py">task#1.py
 </a>
 
