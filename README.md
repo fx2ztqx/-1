@@ -11,7 +11,7 @@
 <br><br>
 </p>
 <b>/ * Все данные вводятся через командную строку функцией ввода input() * / <b>
-<a href="https://github.com/fx2ztqx/hh-school-of-programming_task-1">https://github.com/fx2ztqx/hh-school-of-programming_task-1
+<a href="https://github.com/fx2ztqx/hh-school-of-programming_task-1/blob/master/task%231.py">task#1.py
 </a>
 
 </html>
